@@ -13,7 +13,7 @@ const Mailing: React.FC = () => {
   Stay in the Loop with I0rd
 </span>
 <span className="text-darkGray font-Montserrat text-lg">
-  Join our mailing list to stay updated on AI insights, 0G blockchain updates, trading strategies, and new token discoveries on I0rd. <br />
+  Join our mailing list to stay updated on AI insights, Aleo blockchain updates, trading strategies, and new token discoveries on I0rd. <br />
   Empower your crypto trading with decentralized tools
 </span>
         </div>
